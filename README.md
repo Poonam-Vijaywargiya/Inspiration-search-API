@@ -3,6 +3,7 @@
 ## Introduction 
 This repository contains code to search flights from the origin via amadeus Self-Service flight Inspiration API.
 
+![image](https://github.com/Poonam-Vijaywargiya/Inspiration-search-API/blob/main/Assets/HomeScreen.png)
 ## Features: 
 1) Home screen to enter Origin and Max Price and click button to Search Destinations.
 2) All the destinations will be listed in the search page which are expendable and collapsible list items.
