@@ -1,7 +1,7 @@
 # Getting started with Search Flights from Origin
 
 ## Introduction 
-This repository contains code to search flights from the origin via amadeus Self-Service flight Inspiration API.
+This repository contains code to search flights from the Origin via Amadeus Self-Service flight Inspiration API.
 
 ![image](https://github.com/Poonam-Vijaywargiya/Inspiration-search-API/blob/main/Assets/HomeScreen.png)
 ## Features: 
