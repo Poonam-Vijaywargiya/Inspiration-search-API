@@ -4,13 +4,13 @@
 This repository contains code to search flights from the origin via amadeus Self-Service flight Inspiration API.
 
 ## Features: 
-Home screen to enter Origin and Max Price and click button to Search Destinations.
-All the destinations will be listed in the search page which are expendable and collapsible list items.
-Upon expanding the list item, will show further information about the destination duration and pricing. 
-The Auth token is maintained till expiry(30 mins) and once expired will only be fetched in the respective call. 
-Error will be displayed in the page if we get any error from the API(for now the msg is same as provide by API).
-Check Country code button opens a dialog which shows the list of countries and their codes based on the current Origin.
-Currency will also be displayed once the Search is done. 
+1) Home screen to enter Origin and Max Price and click button to Search Destinations.
+2) All the destinations will be listed in the search page which are expendable and collapsible list items.
+3) Upon expanding the list item, will show further information about the destination duration and pricing. 
+4) The Auth token is maintained till expiry(30 mins) and once expired will only be fetched in the respective call. 
+5) Error will be displayed in the page if we get any error from the API(for now the msg is same as provide by API).
+6) Check Country code button opens a dialog which shows the list of countries and their codes based on the current Origin.
+7) Currency will also be displayed once the Search is done. 
 
 **Live** : https://angular-ivy-bzw31p.stackblitz.io
 
